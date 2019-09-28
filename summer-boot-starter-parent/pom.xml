@@ -10,7 +10,7 @@
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.clinmanc</groupId>
+    <groupId>me.summer</groupId>
     <artifactId>summer-boot-starter-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
