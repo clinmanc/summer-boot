@@ -5,6 +5,6 @@
 <repository>
     <groupId>com.github.clinmanc</groupId>
     <artifactId>summer-boot-starter-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.4</version>
 </repository>
 ```
