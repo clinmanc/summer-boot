@@ -7,12 +7,12 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.2.3.RELEASE</version>
+        <version>2.2.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.clinmanc</groupId>
     <artifactId>summer-boot-starter-parent</artifactId>
-    <version>1.0.5</version>
+    <version>1.0.7</version>
     <packaging>pom</packaging>
     <name>Summer Boot Starter Parent</name>
     <description>
@@ -56,16 +56,16 @@
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-codec.version>1.14</commons-codec.version>
         <commons-collections4.version>4.4</commons-collections4.version>
-        <commons-csv.version>1.7</commons-csv.version>
+        <commons-csv.version>1.8</commons-csv.version>
         <commons-io.version>2.6</commons-io.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.67</fastjson.version>
         <guava.version>28.2-jre</guava.version>
-        <java-jwt.version>3.9.0</java-jwt.version>
-        <jsoup.version>1.12.1</jsoup.version>
-        <okhttp3.version>4.3.1</okhttp3.version>
-        <poi.version>4.1.1</poi.version>
-        <weixin-java.version>3.6.0</weixin-java.version>
+        <java-jwt.version>3.10.1</java-jwt.version>
+        <jsoup.version>1.13.1</jsoup.version>
+        <okhttp3.version>4.4.1</okhttp3.version>
+        <poi.version>4.1.2</poi.version>
+        <weixin-java.version>3.7.0</weixin-java.version>
 
         <mybatis-generator-maven-plugin.version>1.4.0</mybatis-generator-maven-plugin.version>
     </properties>
