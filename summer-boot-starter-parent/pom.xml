@@ -12,7 +12,7 @@
     </parent>
     <groupId>com.github.clinmanc</groupId>
     <artifactId>summer-boot-starter-parent</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Summer Boot Starter Parent</name>
     <description>
@@ -136,6 +136,21 @@
                 <groupId>org.apache.poi</groupId>
                 <artifactId>poi-ooxml</artifactId>
                 <version>${poi.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.binarywang</groupId>
+                <artifactId>wx-java-miniapp-spring-boot-starter</artifactId>
+                <version>${weixin-java.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.binarywang</groupId>
+                <artifactId>wx-java-mp-spring-boot-starter</artifactId>
+                <version>${weixin-java.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.github.binarywang</groupId>
+                <artifactId>wx-java-pay-spring-boot-starter</artifactId>
+                <version>${weixin-java.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.github.binarywang</groupId>
