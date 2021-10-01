@@ -63,7 +63,7 @@
         <guava.version>30.1.1-jre</guava.version>
         <java-jwt.version>3.18.0</java-jwt.version>
         <jsoup.version>1.13.1</jsoup.version>
-        <okhttp3.version>4.9.1</okhttp3.version>
+        <okhttp3.version>4.9.2</okhttp3.version>
         <poi.version>5.0.0</poi.version>
         <weixin-java.version>4.1.0</weixin-java.version>
 
