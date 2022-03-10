@@ -61,7 +61,7 @@
         <commons-lang3.version>3.12.0</commons-lang3.version>
         <fastjson.version>1.2.79</fastjson.version>
         <guava.version>31.0.1-jre</guava.version>
-        <java-jwt.version>3.18.2</java-jwt.version>
+        <java-jwt.version>3.18.3</java-jwt.version>
         <jsoup.version>1.14.3</jsoup.version>
         <okhttp3.version>4.9.3</okhttp3.version>
         <poi.version>5.1.0</poi.version>
