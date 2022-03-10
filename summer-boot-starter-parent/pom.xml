@@ -64,7 +64,7 @@
         <java-jwt.version>3.18.2</java-jwt.version>
         <jsoup.version>1.14.3</jsoup.version>
         <okhttp3.version>4.9.3</okhttp3.version>
-        <poi.version>5.1.0</poi.version>
+        <poi.version>5.2.1</poi.version>
         <weixin-java.version>4.2.0</weixin-java.version>
 
         <mybatis-generator-maven-plugin.version>1.4.0</mybatis-generator-maven-plugin.version>
