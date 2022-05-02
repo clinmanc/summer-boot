@@ -59,7 +59,7 @@
         <commons-csv.version>1.9.0</commons-csv.version>
         <commons-io.version>2.11.0</commons-io.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <fastjson.version>2.0.1</fastjson.version>
+        <fastjson.version>2.0.2</fastjson.version>
         <guava.version>31.1-jre</guava.version>
         <java-jwt.version>3.19.1</java-jwt.version>
         <jsoup.version>1.14.3</jsoup.version>
