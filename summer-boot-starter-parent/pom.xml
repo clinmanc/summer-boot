@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.6.6</version>
+        <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.clinmanc</groupId>
@@ -59,11 +59,11 @@
         <commons-csv.version>1.9.0</commons-csv.version>
         <commons-io.version>2.11.0</commons-io.version>
         <commons-lang3.version>3.12.0</commons-lang3.version>
-        <fastjson.version>2.0.1</fastjson.version>
+        <fastjson.version>2.0.7</fastjson.version>
         <guava.version>31.1-jre</guava.version>
-        <java-jwt.version>3.19.1</java-jwt.version>
+        <java-jwt.version>3.19.2</java-jwt.version>
         <jsoup.version>1.15.1</jsoup.version>
-        <okhttp3.version>4.9.3</okhttp3.version>
+        <okhttp3.version>4.10.0</okhttp3.version>
         <poi.version>5.2.2</poi.version>
         <weixin-java.version>4.3.0</weixin-java.version>
 
@@ -213,7 +213,7 @@
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-javadoc-plugin</artifactId>
-                        <version>3.3.2</version>
+                        <version>3.4.0</version>
                         <executions>
                             <execution>
                                 <id>attach-javadocs</id>
@@ -240,7 +240,7 @@
                     <plugin>
                         <groupId>org.sonatype.plugins</groupId>
                         <artifactId>nexus-staging-maven-plugin</artifactId>
-                        <version>1.6.12</version>
+                        <version>1.6.13</version>
                         <extensions>true</extensions>
                         <configuration>
                             <serverId>sonatype-nexus-staging</serverId>
