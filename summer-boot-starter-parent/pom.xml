@@ -62,7 +62,7 @@
         <fastjson.version>2.0.11</fastjson.version>
         <guava.version>31.1-jre</guava.version>
         <java-jwt.version>4.0.0</java-jwt.version>
-        <jsoup.version>1.15.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <okhttp3.version>4.10.0</okhttp3.version>
         <poi.version>5.2.2</poi.version>
         <weixin-java.version>4.3.0</weixin-java.version>
